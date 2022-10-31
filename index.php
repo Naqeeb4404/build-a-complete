@@ -12,7 +12,6 @@
 
     <header>
         <div class="logo">
-<s></s>
 </div>
 <ul>
     <li><a href=""></a></li>

@@ -79,7 +79,7 @@ Oraimy
             <h2>About Me</h2>
             <p>With 10 yeras experience as a professional web developer, I have acquired the skills and knowledge necessart to make your project a succes, I enjoy every every step of the design process from discussion to collaboration,</P>
             <div class="about-btns">
-                <a href="" class="btn"></a>
+                <a href="" class="btn">Dowload CV <span class="las la-file-contract"></span></a>
                 <img src="img/images.jpg" alt="">
             </div>
         </div>

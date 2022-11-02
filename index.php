@@ -42,7 +42,7 @@ Oraimy
                         <h3>Visual Designer</h3>
 </div>
 <div class="job-desc">
-    I'm a creative designer based in New York and I'm very passionate and dedicated to my work
+    <p>I'm a creative designer based in New York and I'm very passionate and dedicated to my work</p>
 </div>
 <div class="hero-btns">
     <a href="" class="btn">
@@ -63,15 +63,30 @@ Oraimy
 <div class="hero-img">
 <img src="img/images.jpg" alt="">
 <img src="img/logo.jpg" alt="">
-
+</div>
 </div>
 </div>
 </section>
-<section class="about>
 
-<div class="container">
-    
-</div>
+<section class="about">
+    <div class="container">
+        <div class="exp-num">
+            <h1>10</h1>
+            <span>Years of experience</span>
+            <h3>JOHN SMITH</h3>
+        </div>
+        <div class="about-info">
+            <h2>About Me</h2>
+            <p>With 10 yeras experience as a professional web developer, I have acquired the skills and knowledge necessart to make your project a succes, I enjoy every every step of the design process from discussion to collaboration,</P>
+            <div class="about-btns">
+                <a href="" class="btn"></a>
+                <img src="img/images.jpg" alt="">
+            </div>
+        </div>
+        <div>
+
+        </div>
+    </div>
 </section>
 </main>
 </body>

@@ -69,7 +69,9 @@ Oraimy
 </section>
 <section class="about>
 
-
+<div class="container">
+    
+</div>
 </section>
 </main>
 </body>

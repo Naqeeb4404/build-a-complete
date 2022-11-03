@@ -88,6 +88,24 @@ Oraimy
         </div>
     </div>
 </section>
+<section class="area">
+    <div class="container">
+        <div class="area-wrapper">
+            <div class="area-desc">
+                <h2>My expert <br>
+            areas <span class="line"></span></h2>
+            <p>Lorem Ipsum is simply dummy text of the perinting and typesetting industry
+            <p>Lorem Ipsum is simply dummy text of the perinting and typesetting industry</p>
+            <div class="area-btns">
+                <a href="" class="btn">My resume <span class="las la-file-contract"></span>
+            </a>
+            </div>
+            </p>
+            </div>
+        </div>
+    </div>
+
+</section>
 </main>
 </body>
 

@@ -118,12 +118,52 @@ Oraimy
 </div>
 <div class="area-info">
     <div class="skill">
-        
-    </div>
-</div>
-        
-    </div>
-</div>
+        <div>
+            <span class="lab la-figma"></span>
+            <small>Figma</small>
+        </div>
+        <div>
+            <span class="lab la-"></span>
+            <small>After-Effect</small>
+        </div>
+        <div>
+            <span class="lab la-"></span>
+            <small>Photoshop</small>
+        </div>
+        <div>
+            <span class="lab la-"></span>
+            <small>Illustrator</small>
+        </div>
+        <div>
+        <span class="lab la-"></span>
+            <small>Indesign</small>
+            </div>
+          </div>
+          <div class="experiences">
+            <div class="edu">
+                <span>2021 - present</span>
+                <h4>Brem Software Inc.</h4>
+                <h3>Product Designer</h3>
+            </div>
+            <div class="edu">
+                <span>2018 - 2020</span>
+                <h4>Brem Software Inc.</h4>
+                <h3>Product Designer</h3>
+            </div>
+            <div class="edu">
+                <span>2020 - 2021</span>
+                <h4>Brem Software Inc.</h4>
+                <h3>Product Designer</h3>
+            </div>
+            <div class="edu">
+                <span>2016 - 2018</span>
+                <h4>Brem Software Inc.</h4>
+                <h3>Product Designer</h3>
+            </div>
+          </div>
+            </div>
+         </div>
+         </div>
             </p>
             </div>
         </div>

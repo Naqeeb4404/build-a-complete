@@ -100,6 +100,30 @@ Oraimy
                 <a href="" class="btn">My resume <span class="las la-file-contract"></span>
             </a>
             </div>
+</div>
+<div class="area-details">
+    <div class="area-labels">
+        <label for="skill">
+            skills
+            <span class="las la-arrow-up"></span>
+        </label>
+        <label for="experience">
+            experience
+            <span class="las la-arrow-up"></span>
+        </label>
+        <label for="education"></label>
+        education
+        <span class="las la-arrow-up"></span>
+        </label>
+</div>
+<div class="area-info">
+    <div class="skill">
+        
+    </div>
+</div>
+        
+    </div>
+</div>
             </p>
             </div>
         </div>

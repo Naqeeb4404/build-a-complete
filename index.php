@@ -168,7 +168,30 @@ Oraimy
             </div>
         </div>
     </div>
-.
+<div class="projects-num">
+    <div>
+        <div class="num-count">
+            <h1>219</h1>
+            <span></span>
+        </div>
+        <small>Training</small>
+    </div>
+    <div>
+        <div class="num-count">
+            <h1>48</h1>
+            <span></span>
+        </div>
+        <small>Written books</small>
+    </div>
+    <div>
+        <div class="num-count">
+            <h1>527</h1>
+            <span></span>
+        </div>
+        <small>Training</small>
+</div>
+    </div>
+</div>
 </section>
 </main>
 </body>

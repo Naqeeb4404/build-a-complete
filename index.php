@@ -188,10 +188,20 @@ Oraimy
             <h1>527</h1>
             <span></span>
         </div>
-        <small>Training</small>
+        <small>Owned projects</small>
 </div>
     </div>
 </div>
+</section>
+<section class="services">
+    <div class="container">
+        <div class="services-wrapper">
+            <h2>services <br>
+
+
+            </h2>
+        </div>
+    </div>
 </section>
 </main>
 </body>

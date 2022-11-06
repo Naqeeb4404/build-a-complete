@@ -204,10 +204,32 @@ Oraimy
                 <div class="service">
                     <h3>01</h3>
                     <h2>UI/UX design</h2>
-                    <div class="details">
-                        
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industy</p>
+                    <span class="las la-arrow-ip"></span>
                     </div>
-                </div>
+                    <div class="service-list">
+                <div class="service">
+                    <h3>02</h3>
+                    <h2>UI/UX design</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industy</p>
+                    <span class="las la-arrow-ip"></span>
+                    </div>
+                    <div class="service-list">
+                <div class="service">
+                    <h3>03</h3>
+                    <h2>UI/UX design</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industy</p>
+                    <span class="las la-arrow-ip"></span>
+                    </div>
+                    <div class="service-list">
+                <div class="service">
+                    <h3>04</h3>
+                    <h2>UI/UX design</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industy</p>
+                    <span class="las la-arrow-ip"></span>
+                    </div>
+                    
+                  </div>
             </div>
         </div>
     </div>

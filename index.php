@@ -197,9 +197,18 @@ Oraimy
     <div class="container">
         <div class="services-wrapper">
             <h2>services <br>
-
-
+            I provide <span class="line"></span>
             </h2>
+
+            <div class="service-list">
+                <div class="service">
+                    <h3>01</h3>
+                    <h2>UI/UX design</h2>
+                    <div class="details">
+                        
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

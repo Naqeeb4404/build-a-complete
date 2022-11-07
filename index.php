@@ -234,6 +234,40 @@ Oraimy
         </div>
     </div>
 </section>
+<section class="project">
+    <div clas="container">
+        <div class="project-slider-wrapper">
+            <div class="project-slider">
+                <div class="project">
+                    <div class="project-img" style="background-image: url(img/projects-img)"></div>
+                    <div class="project-desc">
+                        <h4>Vimeo</h4>
+                        <h3>Ecommerce Website</h3>
+                    </div>
+                </div>
+                <div class="project-slider-wrapper">
+            <div class="project-slider">
+                <div class="project">
+                    <div class="project-img" style="background-image: url(img/projects-img)"></div>
+                    <div class="project-desc">
+                        <h4>Vimeo</h4>
+                        <h3>Ecommerce Website</h3>
+                    </div>
+                </div>
+                <div class="project-slider-wrapper">
+            <div class="project-slider">
+                <div class="project">
+                    <div class="project-img" style="background-image: url(img/projects-img)"></div>
+                    <div class="project-desc">
+                        <h4>Vimeo</h4>
+                        <h3>Ecommerce Website</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 </main>
 </body>
 

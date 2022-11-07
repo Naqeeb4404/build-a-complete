@@ -268,6 +268,26 @@ Oraimy
     </div>
 </div>
 </section>
+
+<section class="feedbacks">
+    <div class="container">
+        <div class="feedback-wrapper">
+            <h3>Valuable feedback<br>
+            From my client <span class="line"></span>
+        </h3>
+        <div class="feedback">
+            <div class="feedback-img">
+                <img src="img/feedback.jpg" alt="">
+            </div>
+            <div class="feedback-details">
+                <blockquote>
+                    Awesome website! Easy to use
+                </blockquote>  
+            </div>
+        </div>
+        </div>
+    </div>
+</section>
 </main>
 </body>
 

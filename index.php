@@ -280,11 +280,26 @@ Oraimy
                 <img src="img/feedback.jpg" alt="">
             </div>
             <div class="feedback-details">
-                <blockquote>
+                <p>
+            &quot;
                     Awesome website! Easy to use
-                </blockquote>  
+                &quot;
+                </p>
+                <div class="h4">
+                    <span class="line"></span>
+                    Albert Walkers
+                </div>
+                <small>Vivaco group</small>
             </div>
         </div>
+        </div>
+    </div>
+</section>
+<section class="blogs">
+    <div class="container">
+        <div class="blog-wrapper">
+            <h2>From my<br>
+        </h2>
         </div>
     </div>
 </section>

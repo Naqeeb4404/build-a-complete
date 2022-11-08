@@ -299,7 +299,33 @@ Oraimy
     <div class="container">
         <div class="blog-wrapper">
             <h2>From my<br>
+            blog posts <span class="line"></span>
         </h2>
+
+        <div class="blog-list">
+            <div class="blog">
+                <div class="blog-desc">
+                    <div class="date">
+                        <span></span>
+                        <span>02, June</span>
+                    </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                <div class="blog-desc" style "background-images: url(img/blog/1.jpg)"></div>
+            </div>
+            <div class="blog">
+                <div class="blog-desc">
+                    <div class="date">
+                        <span></span>
+                        <span>02, June</span>
+                    </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                <div class="blog-desc" style "background-images: url(img/blog/1.jpg)"></div>
+            </div>
+        </div>
         </div>
     </div>
 </section>

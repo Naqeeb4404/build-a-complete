@@ -323,9 +323,71 @@ Oraimy
                     <h4></h4>
                     <a href="">Read More</a>
                 </div>
+                <div class="blog-desc" style "background-images: url(img/blog/2.jpg)"></div>
+            </div>
+            </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
                 <div class="blog-desc" style "background-images: url(img/blog/1.jpg)"></div>
             </div>
+            <div class="blog">
+                <div class="blog-desc">
+                    <div class="date">
+                        <span></span>
+                        <span>02, June</span>
+                    </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                <div class="blog-desc" style "background-images: url(img/blog/1.jpg)"></div>
+            </div>
+            <div class="blog">
+                <div class="blog-desc">
+                    <div class="date">
+                        <span></span>
+                        <span>02, June</span>
+                    </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
+                <div class="blog-desc" style "background-images: url(img/blog/1.jpg)"></div>
+            </div>
+            <div class="blog">
+                <div class="blog-desc">
+                    <div class="date">
+                        <span></span>
+                        <span>02, June</span>
+                    </div>
+                    <h4></h4>
+                    <a href="">Read More</a>
+                </div>
         </div>
+        <div class="spronsors"></div>
+        <img src="img/logos/1.png" alt="">
+        <img src="img/logos/1.png" alt="">
+        <img src="img/logos/1.png" alt="">
+        <img src="img/logos/1.png" alt="">
+        <img src="img/logos/1.png" alt="">
+</div>
+        </div>
+    </div>
+</section>
+
+<section class= "contact-us">
+    <div class="container">
+        <div class="contact-wrapper">
+            <div class="contact-img"></div>
+            <div class="contact-info"></div>
+            <div class="contact-btns"></div>
         </div>
     </div>
 </section>

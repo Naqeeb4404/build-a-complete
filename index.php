@@ -388,6 +388,8 @@ Oraimy
             <div class="contact-img"></div>
             <div class="contact-info"></div>
             <div class="contact-btns"></div>
+            <p>You can express yourself however you want and whenever you want, for free you can customize a template or make you won
+            </p>
         </div>
     </div>
 

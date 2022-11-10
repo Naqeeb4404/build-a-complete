@@ -393,12 +393,26 @@ Oraimy
         </div>
     </div>
 
-    <div class="contact-address">
+    <div class="address-wrapper">
         <div>
-            <div class="call">
-                <small></small>
+            <div class="address-info">
+                <small>call</small>
                 <h2></h2>
             </div>
+            <div class="contact-address">
+        <div>
+            <div class="email">
+                <small>email</small>
+                <h2></h2>
+            </div>
+            <div class="contact-icons">
+        <div>
+            <div class="call">
+                <span>follow me</span>
+            </div>
+            <span class="lab la-"></span>
+            <span class="lab la-"></span>
+            <span class="lab la-"></span>
         </div>
 </div>
     </div>

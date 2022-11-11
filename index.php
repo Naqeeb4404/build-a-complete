@@ -416,6 +416,13 @@ Oraimy
         </div>
 </div>
     </div>
+    <div class="hero-img">
+        <img src="img/banner.jpg" alt="">
+        <div class="welcome">
+            <img src="img/welcome.png" alt="">
+            <span class="las la-play"></span>
+        </div>
+    </div>
 </section>
 </main>
 </body>

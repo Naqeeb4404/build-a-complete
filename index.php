@@ -397,22 +397,22 @@ Oraimy
         <div>
             <div class="address-info">
                 <small>call</small>
-                <h2></h2>
+                <h2>06(01158169819)</h2>
             </div>
             <div class="contact-address">
         <div>
             <div class="email">
                 <small>email</small>
-                <h2></h2>
+                <h2>support@smith.com</h2>
             </div>
             <div class="contact-icons">
         <div>
             <div class="call">
                 <span>follow me</span>
             </div>
-            <span class="lab la-"></span>
-            <span class="lab la-"></span>
-            <span class="lab la-"></span>
+            <span class="lab behance-"></span>
+            <span class="lab dribble-"></span>
+            <span class="lab instagram-"></span>
         </div>
 </div>
     </div>

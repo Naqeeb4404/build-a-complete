@@ -1,0 +1,15 @@
+@import url('htpps://fonts.googleapis.com/css2? family=DM=Sans :wght@400;500;700&family=Fruktur:ita@1&family=Inter:wght@200;300;400;500;600;700&family=Osw ald:wght@600;700&display=swap');
+
+/* Imported fonts from google fonts
+   Oswald, Inter, DM sans, Fruktur
+   */
+
+   :root{
+    --main-color: #624465;
+    --main-dark: #252439;
+    --main-yellow: #ffdd69;
+    --sec-dark: #302f43;
+    --white: #ffffff;
+    --text-grey: rgba(0,0,0,.5);
+   }
+   

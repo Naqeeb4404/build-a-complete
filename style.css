@@ -12,4 +12,23 @@
     --white: #ffffff;
     --text-grey: rgba(0,0,0,.5);
    }
-   ,
+   
+   * {
+    padding: 0;
+    margin: 0;
+    box-sizzing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    outline: none;
+    font-family: 'inter', sans-serif;
+   }
+
+   html{
+    scroll-behavior: smooth;
+   }
+   
+   header{
+    position: absolute;
+    top: 1rem;
+    z-index
+   }

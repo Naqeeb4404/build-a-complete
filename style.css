@@ -29,10 +29,23 @@
    
    header{
     position: absolute;
-    top: 1rem;
+    top: 1.5rem;
+    right: 0;
+    left: 0;
     z-index: 10;
     display: flex;
     padding: 1rem 2rem;
     background: var(--main-dark);
     display: flex;
+    justify-content: space-between;
    }
+
+   .btn{
+    font-family: 'DM Sans', sans-serif;
+    padding: 1rem 2rem;
+    border-radius: 18px;
+}
+
+header ul {
+    display: flex;
+}

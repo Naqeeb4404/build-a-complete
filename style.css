@@ -30,5 +30,9 @@
    header{
     position: absolute;
     top: 1rem;
-    z-index
+    z-index: 10;
+    display: flex;
+    padding: 1rem 2rem;
+    background: var(--main-dark);
+    display: flex;
    }

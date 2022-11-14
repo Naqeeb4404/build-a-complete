@@ -46,6 +46,22 @@
     border-radius: 18px;
 }
 
+.logo-icon {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: var(--main-color);
+    color: #fff;
+    display: inline-block;
+    margin-right: .5rem;
+}
+
+.logo-icon > span {
+    color: #fff;
+    font-size: 1.4rem;
+}
+
+
 header ul {
     display: flex;
 }

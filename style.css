@@ -65,3 +65,16 @@
 header ul {
     display: flex;
 }
+
+header li {
+    margin-right: 1rem;
+}
+
+header a{
+    color: var(--main-color);
+}
+
+header a.active {
+    color: var(--white);
+    border-bottom: 1px solid var(--white);
+}

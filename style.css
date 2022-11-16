@@ -105,6 +105,10 @@ header a.active {
 
 .hero-desc {
     align-self: center;
+    margin: 2rem 0rem;
+    color: rgba(red, green, blue, alpha);
+    font-size: 1.1rem;
+    line-height: 1.8rem;
 }
 
 .hero-img {

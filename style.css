@@ -123,6 +123,30 @@ img{
 
 .welcome{
     position: absolute;
-    right: -10px;
+    right: 30px;
     top: 55%;
+    height: 170px;
+    width: 170px;
 }
+
+.welcome-inner {
+    position: relative;
+}
+
+.welcome-inner img {
+animation: rotateObj 5s infinite linear;
+}
+
+@keyframes rorateObj {
+    0% { transform: rotate(360deg) }
+}
+
+.welcome-inner span {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-size: 2rem;
+    color: #fff;
+    transform: translate(-40% -40%);
+}
+

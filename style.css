@@ -162,3 +162,14 @@ animation: rotateObj 5s infinite linear;
 section:not(.hero) {
     padding: 3rem 0rem;
 }
+
+section.about {
+    background: var(--main-color);
+
+}
+ .about-wrapper {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 40% 60%;
+    grid-gap: 4rem;
+ }

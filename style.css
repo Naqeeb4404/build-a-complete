@@ -116,7 +116,7 @@ header a.active {
     align-items: flex-end;
     justify-content: flex-end;
 }
-.
+
 img{
     width: 100%;
 }
@@ -154,3 +154,11 @@ animation: rotateObj 5s infinite linear;
     transform: translate(-40% -40%);
 }
 
+.container {
+    margin: auto;
+    width: 75%;
+}
+
+section:not(.hero) {
+    padding: 3rem 0rem;
+}

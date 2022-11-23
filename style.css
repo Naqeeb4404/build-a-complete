@@ -174,10 +174,17 @@ section.about {
     grid-gap: 4rem;
  }
 
+.exp-num {
+    display: flex;
+    justify-content: center;
+}
  .exp-num {
     background: var(--main-yellow);
- }
+    display: flex;
+    justify-content: center;
 
+ }
+  
  .exp-num h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 10rem;

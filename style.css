@@ -184,6 +184,12 @@ section.about {
     justify-content: center;
 
  }
+
+ .exp-num > div {
+    background: var(--main-yellow);
+    width: auto;
+    display: inline-block;
+ }
   
  .exp-num h1 {
     font-family: 'Oswald', sans-serif;

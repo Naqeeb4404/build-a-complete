@@ -205,11 +205,12 @@ section.about {
     color: var(--main-color);
     position: relative;
     top: -3.5rem;
-    right: -2rem;
+    right: -1.8rem;
  }
 
  .exp-num span {
     position: relative;
+    right: -3.5rem;
  }
 
  .exp-num h3 {

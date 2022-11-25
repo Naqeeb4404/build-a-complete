@@ -207,3 +207,12 @@ section.about {
     top: -3.5rem;
     right: -2rem;
  }
+
+ .exp-num span {
+    position: relative;
+ }
+
+ .exp-num h3 {
+    font-size: 3rem;
+    position: relative;
+ }

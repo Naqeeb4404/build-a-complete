@@ -222,3 +222,23 @@ section.about {
     right: -1rem;
     color: var(--main-color);
  }
+
+ section-head {
+    font-family: 'Dm Sans', sans-serif;
+    font-size: 3rem;
+    letter-spacing: -2px;
+    display: flex;
+    align-items: flex-end;
+ }
+
+ section.about .section-head {
+    color: #fff;
+    margin-bottom: 1.5rem;
+
+ }
+
+ .section-head span{
+    width: 80px;
+    height: 1px;
+    
+ }

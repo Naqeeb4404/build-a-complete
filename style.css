@@ -243,4 +243,11 @@ section.about {
     height: 1px;
     height: 1px;
     border-bottom: 1px solid #fff;
+    margin-left: .8rem;
  }
+
+ .about-info {
+    padding-right: 1rem;
+ }
+
+ .about-info
